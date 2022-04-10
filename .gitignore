@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/large_data_files/*
 
 # C extensions
 *.so
