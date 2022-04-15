@@ -5,3 +5,4 @@ lightgbm
 zipfile
 pathlib
 matplotlib.pyplot
+pickle5
