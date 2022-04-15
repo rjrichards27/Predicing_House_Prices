@@ -1,6 +1,6 @@
 # Predicting House Prices with Machine Learning
 
-  This repository contains code for team 6's IDS 705 final project. The goal of the project is to predict house prices using housing data for [Georgia] and [California]. 
+  This repository contains code for team 6's IDS 705 final project. The goal of the project is to predict house prices using housing data for Georgia and California. 
   
 # Motivation
 When both buying and selling homes it is important to know the home’s price, but there are many different factors that go into it. Some of the most important factors are the different characteristics of a home. The main motivation of this project is to predict house prices of a home based on its characteristics. A pan domain analysis will first be conducted to train on homes in Georgia and California and tested by state and home type. While a within domain and cross domain analysis will be performed on each state. This will allow us to see how the different models perform on certain types of homes and their locations. It is best to get the most accurate predictions as possible, and testing on these different subsets of data will allow us to see what type of data generates the most accurate predictions. Accurate house price predictions can help sellers, buyers, and real estate agencies alike to know the market value of a home to make informed decisions. While real estate agencies and websites like Zillow could use the predicted house prices to make appropriate financial projections and advise their clientele.
