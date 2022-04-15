@@ -1,7 +1,10 @@
 sklearn
+scipy
 numpy
 pandas
+xgboost
 lightgbm
+hyperopt
 zipfile
 pathlib
 matplotlib.pyplot
