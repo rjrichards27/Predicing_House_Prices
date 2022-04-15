@@ -17,10 +17,10 @@ All of the intial data is in the Data folder, which is all you need to run the r
 
   #### The files within the anlaysis are numerically labeled and should be run in order.
   
-  Step 1: Install the required packages via Requirments file.
-  Step 2: First run the "10_EDA&Cleaning2" followed by "20_Preprocessing" to generate the needed data, which will be saved to your Data folder. 
-  Step 3: Once those files are run we were interested in testing out different possible models. The different models are in seperate files that are each named according to the model type run in the file. 
-  Step 4: The final model used was a light gbm model and the model is trained and validated on different groups of data: by state and home type. The final models are validated in the according files: "51_Validate_all" (model for all of the data), "52_Validating_On_California_Model" (CA and GA on CA model), and "53_Validating_On_Georgia_Model" (CA and GA on GA model).
+ 1. Step 1: Install the required packages via Requirments file.
+ 2. Step 2: First run the "10_EDA&Cleaning2" followed by "20_Preprocessing" to generate the needed data, which will be saved to your Data folder. 
+ 3. Step 3: Once those files are run we were interested in testing out different possible models. The different models are in seperate files that are each named according to the model type run in the file. 
+ 4. Step 4: The final model used was a light gbm model and the model is trained and validated on different groups of data: by state and home type. The final models are validated in the according files: "51_Validate_all" (model for all of the data), "52_Validating_On_California_Model" (CA and GA on CA model), and "53_Validating_On_Georgia_Model" (CA and GA on GA model).
   
   
   ## Project Flowchart
