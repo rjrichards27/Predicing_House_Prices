@@ -6,3 +6,4 @@ zipfile
 pathlib
 matplotlib.pyplot
 pickle5
+seaborn
