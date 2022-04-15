@@ -8,5 +8,5 @@ hyperopt
 zipfile
 pathlib
 matplotlib.pyplot
-pickle5
+pickle
 seaborn
